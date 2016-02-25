@@ -1,2 +1,1 @@
-I'm a md file
-This is my blog
+This is my first blog
