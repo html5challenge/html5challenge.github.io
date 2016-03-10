@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+正在努力的奔四码农一枚
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+平时喜欢旅游，画画，逛街
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tzs518@gmail.com](mailto:tzs518@gmail.com)
